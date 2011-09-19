@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="juliana-desktop" name="br.com.fieo.gouttesdeluxe.unit.model.PerfumeTest" tests="6" time="0.213" timestamp="2011-09-19T01:41:31">
+  <properties>
+    <property name="default.javac.source" value="1.6" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="libs.toplink.maven-pom" value="" />
+    <property name="javac.source" value="1.5" />
+    <property name="netbeans.system_http_proxy" value="DIRECT" />
+    <property name="java.home" value="/usr/lib/jvm/java-6-openjdk/jre" />
+    <property name="libs.metro.src" value="" />
+    <property name="test.src.dir" value="test" />
+    <property name="libs.jaxws21.src" value="" />
+    <property name="javadoc.version" value="false" />
+    <property name="libs.CopyLibs.classpath" value="/usr/share/netbeans/6.8/java3/ant/extra/org-netbeans-modules-java-j2seproject-copylibstask.jar" />
+    <property name="libs.javac-api.src" value="" />
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-6-openjdk/jre/lib/endorsed" />
+    <property name="libs.MySQLDriver.classpath" value="/home/juliana/.netbeans/6.8/modules/ext/mysql-connector-java-5.1.6-bin.jar" />
+    <property name="libs.jaxb.javadoc" value="/home/juliana/.netbeans/6.8/docs/jaxb-api-doc.zip" />
+    <property name="libs.junit.maven-pom" value="" />
+    <property name="libs.PostgreSQLDriver.src" value="" />
+    <property name="src.dir" value="src/java" />
+    <property name="sun.java2d.noddraw" value="true" />
+    <property name="nbplatform.default.harness.dir" value="/usr/share/netbeans/6.8/harness" />
+    <property name="debug-args-line" value="-Xdebug" />
+    <property name="source.root" value="src" />
+    <property name="netbeans.hash.code" value="unique=NBUBU007c27b18-ee69-47af-8516-38115bebd87a_f4357754-9337-4ec2-8f7d-c3f28533f1fd" />
+    <property name="have.sources" value="true" />
+    <property name="includes" value="**" />
+    <property name="source.encoding" value="UTF-8" />
+    <property name="application.args.param" value="" />
+    <property name="libs.jaxws21.classpath" value="/home/juliana/.netbeans/6.8/modules/ext/jaxb/activation.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxb/api/jaxb-api.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxb/jaxb-impl.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxb/jaxb-xjc.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxb/api/jsr173_api.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/FastInfoset.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/gmbal-api-only.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/http.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/api/jaxws-api.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/jaxws-rt.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/jaxws-tools.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/api/jsr181-api.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/api/jsr250-api.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/management-api.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/mimepull.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/policy.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/api/saaj-api.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/saaj-impl.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/stax-ex.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/streambuffer.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxws22/woodstox.jar" />
+    <property name="libs.swing-app-framework.javadoc" value="" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="java.vendor.url" value="http://java.sun.com/" />
+    <property name="java.version" value="1.6.0_20" />
+    <property name="nb.show.statistics.ui" value="usageStatisticsEnabled" />
+    <property name="build.web.excludes" value="**/*.java,**/*.form" />
+    <property name="javac.debug" value="true" />
+    <property name="display.browser" value="true" />
+    <property name="conf.dir" value="src/conf" />
+    <property name="org.openide.major.version" value="IDE/1" />
+    <property name="deploy.ant.properties.file" value="/home/juliana/.netbeans/6.8/tomcat60.properties" />
+    <property name="libs.PostgreSQLDriver.maven-pom" value="" />
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+    <property name="netbeans.autoupdate.variant" value="" />
+    <property name="libs.eclipselink.javadoc" value="" />
+    <property name="libs.absolutelayout.javadoc" value="" />
+    <property name="libs.junit_4.maven-pom" value="" />
+    <property name="netbeans.buildnumber" value="100326-unknown-revn" />
+    <property name="jna.platform.library.path" value="/usr/lib:/lib" />
+    <property name="client.urlPart" value="" />
+    <property name="libs.IdentityAntTasks.classpath" value="/home/juliana/.netbeans/6.8/ant/nblib/org-netbeans-modules-identity-ant.jar:/home/juliana/.netbeans/6.8/modules/org-netbeans-modules-identity-profile-api.jar" />
+    <property name="libs.swing-app-framework.maven-pom" value="" />
+    <property name="user.name" value="juliana" />
+    <property name="j2ee.deploy.on.save" value="true" />
+    <property name="empty.dir" value="/home/juliana/NetBeansProjects/GouttesDeLuxe/build/empty" />
+    <property name="has.custom.manifest" value="true" />
+    <property name="build.meta.inf.dir" value="build/web/META-INF" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="libs.jstl11.maven-pom" value="" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="do.war.package.with.custom.manifest" value="true" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="sun.java2d.pmoffscreen" value="false" />
+    <property name="jdk.home" value="/usr/lib/jvm/java-6-openjdk" />
+    <property name="jspc.classpath" value="/usr/share/netbeans/6.8/java3/ant/lib/ant.jar:/home/juliana/.netbeans/6.8/modules/ext/servlet2.5-jsp2.1-api.jar:/usr/share/tomcat6/lib/servlet-api.jar:/usr/share/tomcat6/lib/jasper-el.jar:/usr/share/tomcat6/lib/commons-dbcp.jar:/usr/share/tomcat6/lib/annotations-api.jar:/usr/share/tomcat6/lib/commons-pool.jar:/usr/share/tomcat6/lib/tomcat-i18n-fr.jar:/usr/share/tomcat6/lib/el-api.jar:/usr/share/tomcat6/lib/catalina.jar:/usr/share/tomcat6/lib/catalina-ha.jar:/usr/share/tomcat6/lib/jasper.jar:/usr/share/tomcat6/lib/tomcat-i18n-es.jar:/usr/share/tomcat6/lib/catalina-ant.jar:/usr/share/tomcat6/lib/tomcat-coyote.jar:/usr/share/tomcat6/lib/tomcat-i18n-ja.jar:/usr/share/tomcat6/lib/catalina-tribes.jar:/usr/share/tomcat6/lib/jsp-api.jar:/usr/share/tomcat6/bin/tomcat-juli.jar:/home/juliana/.netbeans/6.8/modules/ext/glassfish-jspparser-2.0.jar:/home/juliana/.netbeans/6.8/modules/ext/glassfish-logging-2.0.jar:/usr/share/netbeans/6.8/ide12/modules/ext/commons-logging-1.1.jar:/usr/share/netbeans/6.8/java3/ant/lib/ant-launcher.jar" />
+    <property name="lib.dir" value="web/WEB-INF/lib" />
+    <property name="netbeans.autoupdate.version" value="1.23" />
+    <property name="org.openide.TopManager" value="org.netbeans.core.NonGui" />
+    <property name="netbeans.dirs" value="/usr/share/netbeans/6.8/nb6.8:/usr/share/netbeans/6.8/bin/../ergonomics2:/usr/share/netbeans/6.8/ide12:/usr/share/netbeans/6.8/java3:/usr/share/netbeans/6.8/bin/../xml2:/usr/share/netbeans/6.8/apisupport1:/usr/share/netbeans/6.8/bin/../webcommon1:/usr/share/netbeans/6.8/bin/../websvccommon1:/usr/share/netbeans/6.8/bin/../enterprise6:/usr/share/netbeans/6.8/bin/../mobility8:/usr/share/netbeans/6.8/bin/../profiler3:/usr/share/netbeans/6.8/bin/../ruby2:/usr/share/netbeans/6.8/bin/../python1:/usr/share/netbeans/6.8/bin/../php1:/usr/share/netbeans/6.8/bin/../visualweb2:/usr/share/netbeans/6.8/bin/../soa2:/usr/share/netbeans/6.8/bin/../identity2:/usr/share/netbeans/6.8/bin/../uml6:/usr/share/netbeans/6.8/harness:/usr/share/netbeans/6.8/bin/../cnd3:/usr/share/netbeans/6.8/bin/../dlight2:/usr/share/netbeans/6.8/bin/../groovy2:/usr/share/netbeans/6.8/bin/../extra:/usr/share/netbeans/6.8/bin/../javafx2:/usr/share/netbeans/6.8/bin/../javacard1:" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="javadoc.author" value="false" />
+    <property name="user.timezone" value="" />
+    <property name="netbeans.system_http_non_proxy_hosts" value="" />
+    <property name="web.docbase.dir" value="web" />
+    <property name="libs.swing-layout.maven-pom" value="" />
+    <property name="libs.junit.javadoc" value="" />
+    <property name="org.openide.specification.version" value="6.2" />
+    <property name="path.separator" value=":" />
+    <property name="version-output" value="java version &quot;1.6" />
+    <property name="libs.absolutelayout.classpath" value="/usr/share/netbeans/6.8/java3/modules/ext/AbsoluteLayout.jar" />
+    <property name="libs.jaxb.maven-pom" value="" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="libs.eclipselink.src" value="" />
+    <property name="dist.javadoc.dir" value="dist/javadoc" />
+    <property name="https.nonProxyHosts" value="localhost|127.0.0.1|juliana-desktop" />
+    <property name="libs.junit.src" value="" />
+    <property name="libs.metro.maven-pom" value="" />
+    <property name="ant.file" value="/home/juliana/NetBeansProjects/GouttesDeLuxe/build.xml" />
+    <property name="persistence.xml.dir" value="src/conf" />
+    <property name="libs.junit_4.src" value="" />
+    <property name="ant.file.GouttesDeLuxe-impl" value="/home/juliana/NetBeansProjects/GouttesDeLuxe/nbproject/build-impl.xml" />
+    <property name="j2ee.server.instance" value="tomcat60:home=/usr/share/tomcat6:base=/usr/share/tomcat6/skel" />
+    <property name="netbeans.autoupdate.language" value="en" />
+    <property name="java.io.tmpdir" value="/tmp" />
+    <property name="build.test.results.dir" value="build/test/results" />
+    <property name="user.language" value="en" />
+    <property name="line.separator" value="
+" />
+    <property name="apple.laf.useScreenMenuBar" value="true" />
+    <property name="libs.absolutelayout.src" value="" />
+    <property name="javac.compilerargs" value="" />
+    <property name="war.name" value="GouttesDeLuxe.war" />
+    <property name="jar.compress" value="false" />
+    <property name="debug-transport-by-os" value="dt_socket" />
+    <property name="libs.JWSAntTasks.src" value="" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="libs.javac-api.maven-pom" value="" />
+    <property name="javadoc.private" value="false" />
+    <property name="sun.desktop" value="gnome" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="build.test.classes.dir" value="build/test/classes" />
+    <property name="libs.jaxb.src" value="" />
+    <property name="libs.MySQLDriver.javadoc" value="" />
+    <property name="netbeans.dynamic.classpath" value="/usr/share/netbeans/6.8/platform11/core/core.jar:/usr/share/netbeans/6.8/platform11/core/org-openide-filesystems.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_ru.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_es.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_ja.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_ro.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_fr.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_de.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_tr.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_cs.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_cs.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_es.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_ar.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_ca.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_ru.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_sv.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_ko.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_nl.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_sv.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_it.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_zh_TW.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_gl_ES.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_zh_TW.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_de.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_ja.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_it.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_in_ID.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_ar.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_ro.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_ca.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_tr.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_nl.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_zh_CN.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_ko.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_pt_BR.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_zh_CN.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_sq.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_in_ID.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_gl_ES.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_sq.jar:/usr/share/netbeans/6.8/platform11/core/locale/org-openide-filesystems_fr.jar:/usr/share/netbeans/6.8/platform11/core/locale/core_pt_BR.jar:/usr/share/netbeans/6.8/nb6.8/core/org-netbeans-upgrader.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_ru.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_tr.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_it.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_pt_BR.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_ja.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_tr.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_ca.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_zh_CN.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_gl_ES.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_nl.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_fr.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_ja.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_es.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_fr.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_ca.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_it.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_es.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_zh_CN.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_ko.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_ru.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_sv.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_nl.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_de.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_zh_TW.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_gl_ES.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_ko.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_de.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_zh_TW.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/org-netbeans-upgrader_pt_BR.jar:/usr/share/netbeans/6.8/nb6.8/core/locale/core_nb_sv.jar" />
+    <property name="libs.beans-binding.javadoc" value="" />
+    <property name="compile.jsps" value="false" />
+    <property name="no.dist.ear.dir" value="true" />
+    <property name="platform.active" value="default_platform" />
+    <property name="do.display.browser.debug" value="true" />
+    <property name="http.nonProxyHosts" value="localhost|127.0.0.1|juliana-desktop" />
+    <property name="libs.junit_4.javadoc" value="" />
+    <property name="javac.includes" value="br/com/fieo/gouttesdeluxe/unit/model/PerfumeTest.java" />
+    <property name="netbeans.autoupdate.country" value="US" />
+    <property name="libs.beans-binding.maven-pom" value="" />
+    <property name="javadoc.encoding" value="UTF-8" />
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob" />
+    <property name="ant.version" value="Apache Ant version 1.7.1 compiled on September 8 2010" />
+    <property name="netbeans.home" value="/usr/share/netbeans/6.8/platform11" />
+    <property name="javadoc.nonavbar" value="false" />
+    <property name="user.properties.file" value="/home/juliana/.netbeans/6.8/build.properties" />
+    <property name="libs.JWSAntTasks.classpath" value="/usr/share/netbeans/6.8/java3/ant/extra/org-netbeans-modules-javawebstart-anttasks.jar" />
+    <property name="libs.toplink.classpath" value="/home/juliana/.netbeans/6.8/modules/ext/toplink/toplink-essentials.jar:/home/juliana/.netbeans/6.8/modules/ext/toplink/toplink-essentials-agent.jar" />
+    <property name="netbeans.importclass" value="org.netbeans.upgrade.AutoUpgrade" />
+    <property name="build.web.dir" value="build/web" />
+    <property name="directory.deployment.supported" value="true" />
+    <property name="libs.IdentityAntTasks.javadoc" value="" />
+    <property name="libs.CopyLibs.maven-pom" value="" />
+    <property name="j2ee.server.type" value="Tomcat60" />
+    <property name="useJavaUtilZip" value="true" />
+    <property name="build.generated.dir" value="build/generated" />
+    <property name="netbeans.home+have.tests" value="true" />
+    <property name="libs.eclipselink.maven-pom" value="" />
+    <property name="os.name" value="Linux" />
+    <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="libs.metro.javadoc" value="/home/juliana/.netbeans/6.8/docs/metro-1.4-doc.zip" />
+    <property name="run.test.classpath" value=":build/web/WEB-INF/classes:/usr/share/netbeans/6.8/platform11/modules/ext/junit-4.6.jar:/usr/share/netbeans/6.8/platform11/modules/ext/hamcrest-core.jar:build/test/classes" />
+    <property name="java.vm.name" value="OpenJDK Client VM" />
+    <property name="libs.CopyLibs.src" value="" />
+    <property name="org.openide.version" value="deprecated" />
+    <property name="libs.beans-binding.src" value="" />
+    <property name="libs.junit.classpath" value="/usr/share/netbeans/6.8/java3/modules/ext/junit-3.8.2.jar" />
+    <property name="java.library.path" value="/usr/lib/jvm/java-6-openjdk/jre/lib/i386/client:/usr/lib/jvm/java-6-openjdk/jre/lib/i386:/usr/lib/jvm/java-6-openjdk/jre/../lib/i386:/usr/java/packages/lib/i386:/usr/lib/jni:/lib:/usr/lib" />
+    <property name="libs.PostgreSQLDriver.javadoc" value="" />
+    <property name="libs.toplink.javadoc" value="" />
+    <property name="ant.java.version" value="1.6" />
+    <property name="java.class.version" value="50.0" />
+    <property name="javadoc.noindex" value="false" />
+    <property name="basedir" value="/home/juliana/NetBeansProjects/GouttesDeLuxe" />
+    <property name="sun.awt.exception.handler" value="org.netbeans.core.startup.TopLogging$AWTHandler" />
+    <property name="j2ee.platform" value="1.5" />
+    <property name="javac.test.classpath" value=":build/web/WEB-INF/classes:/usr/share/netbeans/6.8/platform11/modules/ext/junit-4.6.jar:/usr/share/netbeans/6.8/platform11/modules/ext/hamcrest-core.jar" />
+    <property name="ant.home" value="/usr/share/netbeans/6.8/java3/ant" />
+    <property name="resource.dir" value="setup" />
+    <property name="javadoc.splitindex" value="true" />
+    <property name="libs.toplink.src" value="" />
+    <property name="libs.javac-api.javadoc" value="" />
+    <property name="no.dependencies" value="false" />
+    <property name="javadoc.preview" value="true" />
+    <property name="libs.MySQLDriver.maven-pom" value="" />
+    <property name="ant.file.GouttesDeLuxe" value="/home/juliana/NetBeansProjects/GouttesDeLuxe/build.xml" />
+    <property name="runmain.jvmargs" value="" />
+    <property name="libs.CopyLibs.javadoc" value="" />
+    <property name="libs.PostgreSQLDriver.classpath" value="/home/juliana/.netbeans/6.8/modules/ext/postgresql-8.3-603.jdbc3.jar" />
+    <property name="libs.jaxws21.maven-pom" value="" />
+    <property name="libs.junit_4.classpath" value="/usr/share/netbeans/6.8/platform11/modules/ext/junit-4.6.jar:/usr/share/netbeans/6.8/platform11/modules/ext/hamcrest-core.jar" />
+    <property name="build.dir" value="build" />
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-6-openjdk/jre/lib/i386" />
+    <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+    <property name="war.content.additional" value="" />
+    <property name="libs.swing-app-framework.classpath" value="/usr/share/netbeans/6.8/java3/modules/ext/appframework-1.0.3.jar:/usr/share/netbeans/6.8/java3/modules/ext/swing-worker-1.1.jar" />
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment" />
+    <property name="javadoc.encoding.used" value="UTF-8" />
+    <property name="dist.ear.war" value="dist/GouttesDeLuxe.war" />
+    <property name="javadoc.windowtitle" value="" />
+    <property name="j2ee.platform.classpath" value="/usr/share/tomcat6/lib/servlet-api.jar:/usr/share/tomcat6/lib/jasper-el.jar:/usr/share/tomcat6/lib/commons-dbcp.jar:/usr/share/tomcat6/lib/annotations-api.jar:/usr/share/tomcat6/lib/commons-pool.jar:/usr/share/tomcat6/lib/tomcat-i18n-fr.jar:/usr/share/tomcat6/lib/el-api.jar:/usr/share/tomcat6/lib/catalina.jar:/usr/share/tomcat6/lib/catalina-ha.jar:/usr/share/tomcat6/lib/jasper.jar:/usr/share/tomcat6/lib/tomcat-i18n-es.jar:/usr/share/tomcat6/lib/catalina-ant.jar:/usr/share/tomcat6/lib/tomcat-coyote.jar:/usr/share/tomcat6/lib/tomcat-i18n-ja.jar:/usr/share/tomcat6/lib/catalina-tribes.jar:/usr/share/tomcat6/lib/jsp-api.jar:/usr/share/tomcat6/bin/tomcat-juli.jar" />
+    <property name="webinf.dir" value="web/WEB-INF" />
+    <property name="libs.jstl11.javadoc" value="" />
+    <property name="build.generated.sources.dir" value="build/generated-sources" />
+    <property name="libs.IdentityAntTasks.src" value="" />
+    <property name="build.compiler.emacs" value="true" />
+    <property name="libs.jstl11.src" value="" />
+    <property name="ant.project.name" value="GouttesDeLuxe" />
+    <property name="libs.swing-layout.classpath" value="/usr/share/netbeans/6.8/platform11/modules/ext/swing-layout-1.0.4.jar" />
+    <property name="libs.IdentityAntTasks.maven-pom" value="" />
+    <property name="java.vm.specification.version" value="1.0" />
+    <property name="libs.jaxb.classpath" value="/home/juliana/.netbeans/6.8/modules/ext/jaxb/activation.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxb/api/jaxb-api.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxb/jaxb-impl.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxb/jaxb1-impl.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxb/jaxb-xjc.jar:/home/juliana/.netbeans/6.8/modules/ext/jaxb/api/jsr173_api.jar" />
+    <property name="javadoc.use" value="true" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-6-openjdk/jre/lib/ext:/usr/java/packages/lib/ext" />
+    <property name="os.version" value="2.6.32-33-generic" />
+    <property name="excludes" value="" />
+    <property name="libs.jstl11.classpath" value="/home/juliana/.netbeans/6.8/modules/ext/standard.jar:/home/juliana/.netbeans/6.8/modules/ext/jstl.jar" />
+    <property name="user.home" value="/home/juliana" />
+    <property name="org.xml.sax.driver" value="com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser" />
+    <property name="libs.metro.classpath" value="/home/juliana/.netbeans/6.8/modules/ext/jaxb/activation.jar:/home/juliana/.netbeans/6.8/modules/ext/metro/webservices-api.jar:/home/juliana/.netbeans/6.8/modules/ext/metro/webservices-extra-api.jar:/home/juliana/.netbeans/6.8/modules/ext/metro/webservices-extra.jar:/home/juliana/.netbeans/6.8/modules/ext/metro/webservices-rt.jar:/home/juliana/.netbeans/6.8/modules/ext/metro/webservices-tools.jar" />
+    <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+    <property name="libs.absolutelayout.maven-pom" value="" />
+    <property name="user.dir" value="/home/juliana/NetBeansProjects/GouttesDeLuxe" />
+    <property name="org.openide.TopManager.GUI" value="true" />
+    <property name="debug-transport" value="dt_socket" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="endorsed.classpath.cmd.line.arg" value="-Xbootclasspath/p:&apos;/home/juliana/NetBeansProjects/GouttesDeLuxe/${endorsed.classpath}&apos;" />
+    <property name="libs.MySQLDriver.src" value="" />
+    <property name="java.vm.version" value="19.0-b09" />
+    <property name="dist.war" value="dist/GouttesDeLuxe.war" />
+    <property name="java.class.path" value="/home/juliana/NetBeansProjects/GouttesDeLuxe/build/web/WEB-INF/classes:/usr/share/netbeans/6.8/platform11/modules/ext/junit-4.6.jar:/usr/share/netbeans/6.8/platform11/modules/ext/hamcrest-core.jar:/home/juliana/NetBeansProjects/GouttesDeLuxe/build/test/classes:/usr/share/tomcat6/lib/servlet-api.jar:/usr/share/tomcat6/lib/jasper-el.jar:/usr/share/tomcat6/lib/commons-dbcp.jar:/usr/share/tomcat6/lib/annotations-api.jar:/usr/share/tomcat6/lib/commons-pool.jar:/usr/share/tomcat6/lib/tomcat-i18n-fr.jar:/usr/share/tomcat6/lib/el-api.jar:/usr/share/tomcat6/lib/catalina.jar:/usr/share/tomcat6/lib/catalina-ha.jar:/usr/share/tomcat6/lib/jasper.jar:/usr/share/tomcat6/lib/tomcat-i18n-es.jar:/usr/share/tomcat6/lib/catalina-ant.jar:/usr/share/tomcat6/lib/tomcat-coyote.jar:/usr/share/tomcat6/lib/tomcat-i18n-ja.jar:/usr/share/tomcat6/lib/catalina-tribes.jar:/usr/share/tomcat6/lib/jsp-api.jar:/usr/share/tomcat6/bin/tomcat-juli.jar:/usr/share/netbeans/6.8/java3/ant/lib/junit.jar:/usr/share/netbeans/6.8/java3/ant/lib/ant-launcher.jar:/usr/share/netbeans/6.8/java3/ant/lib/ant.jar:/usr/share/netbeans/6.8/java3/ant/lib/ant-junit.jar" />
+    <property name="os.arch" value="i386" />
+    <property name="javac.deprecation" value="false" />
+    <property name="nbplatform.default.netbeans.dest.dir" value="/usr/share/netbeans/6.8" />
+    <property name="build.classes.excludes" value="**/*.java,**/*.form" />
+    <property name="dist.dir" value="dist" />
+    <property name="netbeans.user" value="/home/juliana/.netbeans/6.8" />
+    <property name="debug.classpath" value="build/web/WEB-INF/classes:" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="jspcompilation.classpath" value="/usr/share/netbeans/6.8/java3/ant/lib/ant.jar:/home/juliana/.netbeans/6.8/modules/ext/servlet2.5-jsp2.1-api.jar:/usr/share/tomcat6/lib/servlet-api.jar:/usr/share/tomcat6/lib/jasper-el.jar:/usr/share/tomcat6/lib/commons-dbcp.jar:/usr/share/tomcat6/lib/annotations-api.jar:/usr/share/tomcat6/lib/commons-pool.jar:/usr/share/tomcat6/lib/tomcat-i18n-fr.jar:/usr/share/tomcat6/lib/el-api.jar:/usr/share/tomcat6/lib/catalina.jar:/usr/share/tomcat6/lib/catalina-ha.jar:/usr/share/tomcat6/lib/jasper.jar:/usr/share/tomcat6/lib/tomcat-i18n-es.jar:/usr/share/tomcat6/lib/catalina-ant.jar:/usr/share/tomcat6/lib/tomcat-coyote.jar:/usr/share/tomcat6/lib/tomcat-i18n-ja.jar:/usr/share/tomcat6/lib/catalina-tribes.jar:/usr/share/tomcat6/lib/jsp-api.jar:/usr/share/tomcat6/bin/tomcat-juli.jar:/home/juliana/.netbeans/6.8/modules/ext/glassfish-jspparser-2.0.jar:/home/juliana/.netbeans/6.8/modules/ext/glassfish-logging-2.0.jar:/usr/share/netbeans/6.8/ide12/modules/ext/commons-logging-1.1.jar:/usr/share/netbeans/6.8/java3/ant/lib/ant-launcher.jar:" />
+    <property name="do.display.browser" value="true" />
+    <property name="ant.core.lib" value="/usr/share/netbeans/6.8/java3/ant/lib/ant.jar" />
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="file.separator" value="/" />
+    <property name="java.runtime.version" value="1.6.0_20-b20" />
+    <property name="sun.boot.class.path" value="/home/juliana/NetBeansProjects/GouttesDeLuxe/${endorsed.classpath}:/usr/lib/jvm/java-6-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/netx.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/plugin.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rhino.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/modules/jdk.boot.jar:/usr/lib/jvm/java-6-openjdk/jre/classes" />
+    <property name="debug.test.classpath" value=":build/web/WEB-INF/classes:/usr/share/netbeans/6.8/platform11/modules/ext/junit-4.6.jar:/usr/share/netbeans/6.8/platform11/modules/ext/hamcrest-core.jar:build/test/classes" />
+    <property name="javax.accessibility.assistive_technologies" value="org.GNOME.Accessibility.JavaBridge" />
+    <property name="libs.beans-binding.classpath" value="/usr/share/netbeans/6.8/java3/modules/ext/beansbinding-1.2.1.jar" />
+    <property name="jspctask.classpath" value="/home/juliana/.netbeans/6.8/ant/extra/jspcompile.jar" />
+    <property name="have.tests" value="true" />
+    <property name="test.includes" value="br/com/fieo/gouttesdeluxe/unit/model/PerfumeTest.java" />
+    <property name="libs.JWSAntTasks.maven-pom" value="" />
+    <property name="java.util.logging.config.class" value="org.netbeans.core.startup.TopLogging" />
+    <property name="libs.javac-api.classpath" value="/usr/share/netbeans/6.8/java3/modules/ext/javac-api-nb-7.0-b07.jar" />
+    <property name="user.country" value="US" />
+    <property name="javadoc.notree" value="false" />
+    <property name="do.debug.server" value="true" />
+    <property name="libs.jaxws21.javadoc" value="/home/juliana/.netbeans/6.8/docs/jaxws-api-doc.zip" />
+    <property name="javadoc.additionalparam" value="" />
+    <property name="javac.classpath" value="" />
+    <property name="default.javac.target" value="1.6" />
+    <property name="build.classes.dir" value="build/web/WEB-INF/classes" />
+    <property name="libs.swing-layout.javadoc" value="" />
+    <property name="libs.swing-layout.src" value="" />
+    <property name="javac.target" value="1.5" />
+    <property name="java.vendor" value="Sun Microsystems Inc." />
+    <property name="libs.eclipselink.classpath" value="/home/juliana/.netbeans/6.8/modules/ext/eclipselink/eclipselink-2.0.0.jar:/home/juliana/.netbeans/6.8/modules/ext/eclipselink/eclipselink-javax.persistence-2.0.jar" />
+    <property name="libs.swing-app-framework.src" value="" />
+    <property name="java.specification.version" value="1.6" />
+    <property name="j2ee.platform.embeddableejb.classpath" value="" />
+    <property name="war.ear.name" value="GouttesDeLuxe.war" />
+    <property name="libs.JWSAntTasks.javadoc" value="" />
+    <property name="sun.arch.data.model" value="32" />
+  </properties>
+  <testcase classname="br.com.fieo.gouttesdeluxe.unit.model.PerfumeTest" name="testGetImage" time="0.014" />
+  <testcase classname="br.com.fieo.gouttesdeluxe.unit.model.PerfumeTest" name="testSetImage" time="0.001" />
+  <testcase classname="br.com.fieo.gouttesdeluxe.unit.model.PerfumeTest" name="testGetName" time="0.001" />
+  <testcase classname="br.com.fieo.gouttesdeluxe.unit.model.PerfumeTest" name="testSetName" time="0.043" />
+  <testcase classname="br.com.fieo.gouttesdeluxe.unit.model.PerfumeTest" name="testGetValue" time="0.002" />
+  <testcase classname="br.com.fieo.gouttesdeluxe.unit.model.PerfumeTest" name="testSetValue" time="0.002" />
+  <system-out><![CDATA[Adicionando um nome vazio a classe Perfume
+Adicionando um nome com mais de 100 caracteres a classe Perfume
+Adicionando um valor a classe Perfume
+]]></system-out>
+  <system-err><![CDATA[Sep 18, 2011 10:41:32 PM br.com.fieo.gouttesdeluxe.model.Perfume setName
+WARNING: java.lang.Exception: nome vazio
+Sep 18, 2011 10:41:32 PM br.com.fieo.gouttesdeluxe.model.Perfume setName
+SEVERE: FODEU
+Sep 18, 2011 10:41:32 PM br.com.fieo.gouttesdeluxe.model.Perfume setName
+WARNING: java.lang.Exception: nome maior que 100 caracteres
+Sep 18, 2011 10:41:32 PM br.com.fieo.gouttesdeluxe.model.Perfume setName
+SEVERE: FODEU
+]]></system-err>
+</testsuite>
